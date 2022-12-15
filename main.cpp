@@ -9,7 +9,7 @@ int main()
     char nome[20];
     int posizione = 0;
 
-    for (int i = 0; i < 10; i++)
+    for (int i=0; i<10; i++)
     {
         for (int j = 0; j < 20; j++)
         {
